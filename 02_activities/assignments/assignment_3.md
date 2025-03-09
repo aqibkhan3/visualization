@@ -8,11 +8,17 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+        
         The data visualization was created using Microsoft Excel, leveraging its straightforward charting tools for summarizing and visualizing data.
+
     > Who is your intended audience? 
+        
         The intended audience includes urban planners, city council members, transportation professionals, and the general public who are interested in understanding the distribution of road types within Toronto.
+
     > What information or message are you trying to convey with your visualization? 
+        
         The visualization conveys the distribution and prevalence of various road types in Toronto, highlighting which types dominate the city’s infrastructure (e.g., local roads being the most common).
+
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
 
         *Substantive: The visualization is data-driven, presenting accurate and clear information by summarizing road types and their counts in descending order.
