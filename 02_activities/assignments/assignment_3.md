@@ -8,22 +8,48 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+        The data visualization was created using Microsoft Excel, leveraging its straightforward charting tools for summarizing and visualizing data.
     > Who is your intended audience? 
-    
+        The intended audience includes urban planners, city council members, transportation professionals, and the general public who are interested in understanding the distribution of road types within Toronto.
     > What information or message are you trying to convey with your visualization? 
-    
+        The visualization conveys the distribution and prevalence of various road types in Toronto, highlighting which types dominate the city’s infrastructure (e.g., local roads being the most common).
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+
+        *Substantive: The visualization is data-driven, presenting accurate and clear information by summarizing road types and their counts in descending order.
+        Applied through sorting data for better interpretation.
+        *Perceptual: The bar chart format ensures readability, with distinct horizontal bars making comparisons intuitive.
+        Chose a horizontal layout to accommodate longer labels (road type names).
+        *Aesthetic: Used a clean design with minimal distractions (e.g., no unnecessary gridlines) to maintain focus on the data.
+        Customized colors and chart title to enhance visual appeal.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+        *The summary table used to create the visualization was saved and shared as an Excel file. Anyone with the file can reproduce the chart by following simple steps in Excel.
+        *Microsoft Excel is widely available, making reproduction relatively easy, though non-automated tools like Excel may require manual effort to repeat the process.
+
     
     > How did you ensure that your data visualization is accessible?  
-    
+
+        *Labeling: Clear axis labels and a descriptive title were used to ensure the information is understandable at a glance.
+        *Sorting: Data was sorted by counts in descending order to emphasize the most prevalent road types.
+        *Exportability: The visualization can be exported as an image or embedded in presentations to reach broader audiences.
+
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+
+        *Urban Planning: Urban planners might use this data to prioritize infrastructure investments.
+        *Residents and Commuters: Communities in Toronto can better understand the infrastructure distribution in their areas.
+        *Policy Makers: City council members can use the insights for decision-making on transportation and public works.
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+
+        *Included: The FEATURE_CODE_DESC column was chosen because it directly relates to road types, the focus of the visualization.
+        *Excluded: Other attributes (e.g., geometry, intersection details) were omitted as they did not contribute to the core message.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+        *Data Cleaning: Extracted and summarized relevant road type data from a larger dataset.
+        *Software Navigation: Manually formatted the chart in Excel to enhance readability.
+        *Justification: Considered the needs of the audience and selected the most appropriate features for the message being conveyed.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
